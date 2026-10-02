@@ -1,0 +1,16 @@
+# Subreddits and limits for the Reddit collector.
+reddit:
+  subreddits:
+  - femalefashionadvice
+  - malefashionadvice
+  - fashion
+  - OUTFITS
+  - RepLadies
+  - frugalmalefashion
+  - VintageFashion
+  new_posts_per_sub: 300
+  top_posts_per_sub: 100
+  comments_min_score: 25
+  comments_per_post: 200
+snapshots:
+  window_days: 14
